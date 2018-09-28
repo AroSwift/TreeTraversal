@@ -1,2 +1,2 @@
 # TreeTraversal
-Traversal program allows user to traverse a tree in various ways
+Traversal program allows user to traverse a tree in various ways. When given a file, the following data is read into a tree: first_name, last_name, street_address, city, state, zip The user is then given a menu that provides pre order traversal, In order traversal, post order traversal, breadth first traversal, A search for a person, and an exit option. The traversals and search for person utilize the tree that was built with the data.
